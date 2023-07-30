@@ -63,15 +63,11 @@ img.bottom-cloud{
     position: absolute;
     left: 18.75rem;
     bottom: 18.75rem;
-    width: 6.25rem;
-    height: 3.125rem;
 }
 img.top-cloud{
     position: absolute;
     right: 18.75rem;
     top: 3.125rem;
-    width: 6.25rem;
-    height: 3.125rem;
 }
 hr{
     border-style: dotted none none;
@@ -145,8 +141,4 @@ p.copy-right{
     color: #EAF6F6;
     font-size: 0.75rem;
     padding: 20px 0;
-}
-img.moun{
-    height: 26.5625rem;
-    width: 37.5rem;
 }
